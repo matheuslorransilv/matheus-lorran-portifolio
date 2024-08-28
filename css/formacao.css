@@ -146,3 +146,9 @@
     margin-bottom: 10px;
   }
 }
+
+@media (max-width: 400px) {
+  .cursos {
+    font-size: 0.85rem;
+  }
+}
