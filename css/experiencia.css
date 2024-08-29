@@ -88,34 +88,6 @@
   line-height: 1.4;
   border-radius: 4px;
   background: #ffffff;
-  padding: 5px 10px;
-}
-
-.empresa-habilidades .xp-css {
-  background-color: #33a9dc;
-  color: #ffffff;
-  font-size: 0.8rem;
-  font-weight: 700;
-  text-align: center;
-  padding: 5px 25px;
-}
-
-.empresa-habilidades .xp-js {
-  background-color: #f0db4f;
-  color: #ffffff;
-  font-size: 0.8rem;
-  font-weight: 700;
-  text-align: center;
-  padding: 5px 25px;
-}
-
-.empresa-habilidades .xp-html {
-  background-color: #f0652a;
-  color: #ffffff;
-  font-size: 0.8rem;
-  font-weight: 700;
-  text-align: center;
-  padding: 5px 25px;
 }
 
 @media (max-width: 800px) {
